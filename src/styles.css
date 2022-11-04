@@ -1,0 +1,15 @@
+html, body{
+    display: flex;
+    justify-content: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+.App{
+    align-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
